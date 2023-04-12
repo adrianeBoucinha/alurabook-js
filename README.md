@@ -11,11 +11,11 @@ Coloquei vários comentários no Código JS, para entender melhor o que cada lin
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Book - HTML, CSS e JAVASCRIPT**
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
-| :rocket: URL         | https://adrianeboucinha.github.io/mochila-de-viagem-alura/
-| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
+| :rocket: URL         | https://adrianeboucinha.github.io/alurabook-js/
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev](https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev)
+![https://adrianeboucinha.github.io/alurabook-js/#vitrinedev](https://adrianeboucinha.github.io/alurabook-js/#vitrinedev)
 
 ## Detalhes do projeto
 
